@@ -20,7 +20,6 @@ class MainActivity : AppCompatActivity() {
             loadUrl("https://mari.ge/login")
             settings.javaScriptEnabled = true
             settings.domStorageEnabled = true
-
         }
     }
 }
